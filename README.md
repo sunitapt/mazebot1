@@ -1,1 +1,1 @@
-# mazeboatapi
+# mazebotapi
