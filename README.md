@@ -6,8 +6,4 @@ If your code Solves all the Mazes in race mode then GitHub gives you a certifica
 ## About the Code
 The code solves the race mode Of the maze bot api effectively. It uses Dijsktras Algorithm to solve the mazes.
 
-## Certificate
-The best timing that the code has attained in the race mode is 19.166 sec . 
-1) Dijkstras algorithm [certificate]
 
-2) Code run on cloud [certificate]
